@@ -1,0 +1,2 @@
+model_checkpoint_path: "Pendulum_2019_04_23_00_29_16_067139_model.ckpt"
+all_model_checkpoint_paths: "Pendulum_2019_04_23_00_29_16_067139_model.ckpt"
